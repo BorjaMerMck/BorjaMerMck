@@ -33,11 +33,18 @@
 
 <br>
 
-<h2 align="center">📕 Featured repositories:</h2>
-
+<h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
 <a href="https://github.com/borjamermch/Tasktracer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Tasktracer">
+</a>
+</div>
+
+<h2 align="center">📝 Learning Notes</h2>
+
+<div align="center">
+<a href="https://github.com/borjamermch/gammatech_school-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=gammatech_school-java&theme=transparent" alt="Tasktracer">
 </a>
 </div>
 
