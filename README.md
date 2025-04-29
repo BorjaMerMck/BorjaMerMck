@@ -36,16 +36,17 @@
 <h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
 <h3 >📕 TFG  Project :</h3>
-<a href="https://github.com/borjamermck/Tasktracer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Tasktracer">
-</a>
+<a href="https://github.com/borjamermck/Tasktracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Flutter"></a>
+
+   <a href="https://github.com/big-damian/Cripto_Utilidades_Damian"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=Cripto_Utilidades_Damian&theme=transparent" alt="C++"></a>
+
 </div>
 
 <h2 align="center">📝 Learning Notes</h2>
 
 <div align="center">
 <a href="https://github.com/borjamermck/gammatech_school-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=gammatech_school-java&theme=transparent" alt="Tasktracer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=gammatech_school-java&theme=transparent" alt="java">
 </a>
 </div>
 
