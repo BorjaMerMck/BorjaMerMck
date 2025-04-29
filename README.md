@@ -37,7 +37,7 @@
 
 <div align="center">
 <a href="https://github.com/borjamermch/Tasktracer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermch&repo=Tasktracer&theme=transparent" alt="Tasktracer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Tasktracer">
 </a>
 </div>
 
@@ -46,16 +46,16 @@
 <h2 align="center">📊 My Github stats:</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=borjamermch&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=borjamermck&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjamermch&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=borjamermch&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borjamermck&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=borjamermck&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borjamermch&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borjamermch&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=borjamermch&theme=transparent&utcOffset=1" height="180em" alt="Time Graph"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjamermch&theme=transparent" alt='Profile'/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borjamermck&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=borjamermck&theme=transparent&utcOffset=1" height="180em" alt="Time Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borjamermck&theme=transparent" alt='Profile'/>
 </div>
 
 <br>
