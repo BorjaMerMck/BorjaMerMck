@@ -36,11 +36,7 @@
 <h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
 <h3 >📕 TFG  Project :</h3>
-<a href="https://github.com/borjamermck/Tasktracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Flutter"></a>
-
-   <a href="https://github.com/big-damian/Cripto_Utilidades_Damian"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=Cripto_Utilidades_Damian&theme=transparent" alt="C++"></a>
-
-</div>
+<a href="https://github.com/borjamermck/Tasktracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Flutter"></a></div>
 
 <h2 align="center">📝 Learning Notes</h2>
 
