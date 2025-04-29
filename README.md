@@ -35,15 +35,16 @@
 
 <h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
-<a href="https://github.com/borjamermch/Tasktracer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt=" TFG Tasktracer">
+<h3 >📕 TFG  Project :</h3>
+<a href="https://github.com/borjamermck/Tasktracer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Tasktracer">
 </a>
 </div>
 
 <h2 align="center">📝 Learning Notes</h2>
 
 <div align="center">
-<a href="https://github.com/borjamermch/gammatech_school-java">
+<a href="https://github.com/borjamermck/gammatech_school-java">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=gammatech_school-java&theme=transparent" alt="Tasktracer">
 </a>
 </div>
