@@ -36,7 +36,7 @@
 <h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
 <a href="https://github.com/borjamermch/Tasktracer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt="Tasktracer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=borjamermck&repo=Tasktracer&theme=transparent" alt=" TFG Tasktracer">
 </a>
 </div>
 
