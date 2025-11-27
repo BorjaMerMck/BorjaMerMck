@@ -13,7 +13,7 @@
 <h2 align="center">🎯 Currently:</h2>
 
 <ul>
-  <li><strong>Learning at:</strong> Gammatech School</li>
+  <li><strong>Learning at:</strong> accenture: Big Data</li>
   <li><strong>Working on:</strong> Private Projects</li>
 </ul>
 
